@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abhinav Sinha</title>
-    <link>http://sinha-abhi.github.io/</link>
+    <link>https://sinha-abhi.github.io/</link>
     <description>Recent content on Abhinav Sinha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 21:53:42 -0400</lastBuildDate>
     
-	<atom:link href="http://sinha-abhi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sinha-abhi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>http://sinha-abhi.github.io/projects/</link>
+      <link>https://sinha-abhi.github.io/projects/</link>
       <pubDate>Sun, 29 Mar 2020 21:53:42 -0400</pubDate>
       
-      <guid>http://sinha-abhi.github.io/projects/</guid>
+      <guid>https://sinha-abhi.github.io/projects/</guid>
       <description>Most of the my projects can be found on my GitHub. </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://sinha-abhi.github.io/about/</link>
+      <link>https://sinha-abhi.github.io/about/</link>
       <pubDate>Sun, 29 Mar 2020 21:44:37 -0400</pubDate>
       
-      <guid>http://sinha-abhi.github.io/about/</guid>
+      <guid>https://sinha-abhi.github.io/about/</guid>
       <description>TODO: insert blurb about interests
 Education Purdue University West Lafayette, IN | August 2017 to May 2021
  B.S. in Computer Science (Honors) and Applied Mathematics (Joint Major)  Track: Computational Sciences and Engineering    Parsippany High School Parsippany, NJ | September 2013 to June 2017</description>
