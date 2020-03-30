@@ -6,10 +6,28 @@
     <description>Recent content on Abhinav Sinha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2020 21:53:42 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 10:37:41 -0400</lastBuildDate>
     
 	<atom:link href="http://sinha-abhi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Experience</title>
+      <link>http://sinha-abhi.github.io/experience/</link>
+      <pubDate>Mon, 30 Mar 2020 10:37:41 -0400</pubDate>
+      
+      <guid>http://sinha-abhi.github.io/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coursework</title>
+      <link>http://sinha-abhi.github.io/coursework/</link>
+      <pubDate>Sun, 29 Mar 2020 21:53:42 -0400</pubDate>
+      
+      <guid>http://sinha-abhi.github.io/coursework/</guid>
+      <description>Technical Coursework At Purdue University Graduate  CS 51400 :: Numerical Analysis CS 51500 :: Numerical Linear Algebra (Matrix Computations) CS 52000 :: Computational Methods in Optimization MA 52300 :: Partial Differential Equations  Undergraduate  CS 35400 :: Operating Systems CS 35200 :: Compilers CS 31400 :: Numerical Methods CS 25200 :: Systems Programming CS 25100 :: Data Stuctures and Algorithms CS 25000 :: Computer Architecture CS 24000 :: Programming in C CS 18200 :: Foundations of Computer Science CS 18000 :: Problem Solving &amp;amp; Object Oriented Programming MA 44000 :: Honors Real Analysis MA 36600 :: Ordinary Differential Equations MA 35301 :: Linear Algebra II MA 35100 :: Elementary Linear Algebra MA 34100 :: Foundations of Analysis STAT 35000 :: Introduction to Statistics  </description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -27,7 +45,7 @@
       
       <guid>http://sinha-abhi.github.io/about/</guid>
       <description>TODO: insert blurb about interests
-Education Purdue University West Lafayette, IN | August 2017 to May 2021
+ Education Purdue University West Lafayette, IN | August 2017 to May 2021
  B.S. in Computer Science (Honors) and Applied Mathematics (Joint Major)  Track: Computational Sciences and Engineering    Parsippany High School Parsippany, NJ | September 2013 to June 2017</description>
     </item>
     
